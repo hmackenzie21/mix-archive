@@ -1,0 +1,9 @@
+Display Features:
+- Artwork
+- Track title
+- Artist Name
+- Date (user inputted, not based on upload date/time)
+- Description
+- Genre Tags (coloured by genre)
+- Location Tag
+- List of tags to where user can filter by genre

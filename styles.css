@@ -1,0 +1,60 @@
+
+#mixes {
+    display: flex;     
+    flex-wrap: wrap;
+    gap: 20px;              
+    justify-content: center;
+}
+
+.mix-card {
+    width: 400px;      
+    padding: 15px;
+    border-radius: 8px;
+    color: black;
+    display: flex;
+    flex-direction: column;  
+    align-items: left;
+}
+
+
+.mix-card img {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    justify-content: center;
+}
+
+.house-tag {
+    color: black;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin: 2px;
+    font-size: 0.8em;
+}
+
+.techno-tag {
+    color: black;
+    padding: 4px 8px;
+    border-radius: 4px;
+    margin: 2px;
+    font-size: 0.8em;
+}
+
+#tag-list {
+    gap: 30px;
+}
+
+
+
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: normal;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+}
