@@ -1,3 +1,11 @@
+header {
+    position: sticky;
+    top: 0;
+    background: #fff; 
+    padding: 10px;
+    z-index: 1000;    
+}
+
 
 #mixes {
     display: flex;     
